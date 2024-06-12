@@ -1,4 +1,5 @@
 # Pizza Sales Analysis using SQL
+<img src ="https://github.com/kindo-tk/images/blob/main/download.png">
 
 **This project aims to analyze pizza sales data using SQL to boost sales. The analysis will answer the following questions:**
 
